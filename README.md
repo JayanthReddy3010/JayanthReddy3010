@@ -27,3 +27,4 @@ Computer Science Student | Aspiring Software Engineer
 [![](https://visitcount.itsvg.in/api?id=JayanthReddy3010&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+!snake(https://raw.githubusercontent.com/JayanthReddy3010/JayanthReddy3010/output/snake-purple.svg)
